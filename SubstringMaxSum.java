@@ -4,7 +4,7 @@ public class SubstringMaxSum {
 
     public static int maxSubStringSum(String s) {
         int n = s.length();
-        String s2 = s + s;  // 
+        String s2 = s + s;   
 
         Set<Character> set = new HashSet<>();
         int left = 0;
