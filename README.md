@@ -1,2 +1,2 @@
-# maximum-Subarray-Sum
+# maximum-SubString-Sum
 Using HashSet 
